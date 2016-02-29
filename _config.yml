@@ -1,0 +1,28 @@
+name: Surprise eggs
+favicon: null
+layout_spectrum: 0.4357122441288084
+typography_spectrum: 0.7645028391852975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7541476399637759
+  lightness: 0.5244286395609379
+  saturation: 0.8284419439733028
+  rhythmicContrast: 0.05081968870945275
+purpose: []
