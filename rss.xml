@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Surprise eggs]]></title>
+        <description><![CDATA[Surprise eggs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Feb 2016 14:05:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=glasjiijA9U</p>]]></description>
+            <link>undefined64146214-c236-448e-8663-4e802d3a46f0/index.html</link>
+            <guid isPermaLink="false">64146214-c236-448e-8663-4e802d3a46f0</guid>
+            <pubDate>Mon, 29 Feb 2016 14:04:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
