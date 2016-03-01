@@ -1,7 +1,7 @@
 name: Surprise eggs
 favicon: null
-layout_spectrum: 0.4357122441288084
-typography_spectrum: 0.7645028391852975
+layout_spectrum: 1
+typography_spectrum: 0
 title: 'Surprise eggs and toys from frozen, peppa pig, ben and holly, minions, mickey, kinder and many more.   Huevos sorpresa y juguetes de frozen, peppa pig, ben y holly, minions, mickey, kinder y muchos más.'
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.7541476399637759
   lightness: 0.5244286395609379
   saturation: 0.8284419439733028
-  rhythmicContrast: 0.05081968870945275
+  rhythmicContrast: 1
 purpose: []
